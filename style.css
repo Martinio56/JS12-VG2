@@ -1,0 +1,9 @@
+.bilde {
+    display: flex;
+    flex-direction: row;
+}
+
+.bilde1 {
+    display: flex;
+    flex-direction: column;
+}
